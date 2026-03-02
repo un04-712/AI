@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FastAPI/.idea/FastAPI.iml" filepath="$PROJECT_DIR$/../FastAPI/.idea/FastAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyQt5.iml" filepath="$PROJECT_DIR$/.idea/PyQt5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../images/.idea/images.iml" filepath="$PROJECT_DIR$/../images/.idea/images.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Tencent Files/3309546854/FileRecv/购物管理中心/.idea/购物管理中心.iml" filepath="$USER_HOME$/Documents/Tencent Files/3309546854/FileRecv/购物管理中心/.idea/购物管理中心.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../购物管理系统/.idea/购物管理系统.iml" filepath="$PROJECT_DIR$/../购物管理系统/.idea/购物管理系统.iml" />
+    </modules>
+  </component>
+</project>
