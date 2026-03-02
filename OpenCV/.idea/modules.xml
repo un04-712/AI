@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenCV.iml" filepath="$PROJECT_DIR$/.idea/OpenCV.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Tencent Files/3309546854/FileRecv/smartCar_code/.idea/smartCar_code.iml" filepath="$USER_HOME$/Documents/Tencent Files/3309546854/FileRecv/smartCar_code/.idea/smartCar_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../智能驾驶系统/.idea/智能驾驶系统.iml" filepath="$PROJECT_DIR$/../智能驾驶系统/.idea/智能驾驶系统.iml" />
+    </modules>
+  </component>
+</project>
