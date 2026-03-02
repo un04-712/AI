@@ -1,0 +1,1 @@
+#pip install numpy库 -i https://pypi.tuna.tsinghua.edu.cn/simple

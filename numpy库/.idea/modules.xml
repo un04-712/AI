@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FastAPI/.idea/FastAPI.iml" filepath="$PROJECT_DIR$/../FastAPI/.idea/FastAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/numpy.iml" filepath="$PROJECT_DIR$/.idea/numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../panda库/.idea/panda库.iml" filepath="$PROJECT_DIR$/../panda库/.idea/panda库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plt库/.idea/plt库.iml" filepath="$PROJECT_DIR$/../plt库/.idea/plt库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../项目1/.idea/项目1.iml" filepath="$PROJECT_DIR$/../项目1/.idea/项目1.iml" />
+    </modules>
+  </component>
+</project>
