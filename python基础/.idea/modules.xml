@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/day1.iml" filepath="$PROJECT_DIR$/.idea/day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../numpy库/.idea/numpy.iml" filepath="$PROJECT_DIR$/../numpy库/.idea/numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../panda库/.idea/panda库.iml" filepath="$PROJECT_DIR$/../panda库/.idea/panda库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plt库/.idea/plt库.iml" filepath="$PROJECT_DIR$/../plt库/.idea/plt库.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Tencent Files/3309546854/FileRecv/多人聊天室v1.1/.idea/多人聊天室v1.iml" filepath="$USER_HOME$/Documents/Tencent Files/3309546854/FileRecv/多人聊天室v1.1/.idea/多人聊天室v1.iml" />
+    </modules>
+  </component>
+</project>
